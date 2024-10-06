@@ -146,7 +146,7 @@ local function CreateDrag(gui)
 	end)
 end
 
-function Library:NewWindow(title, mode)
+function Library:CreateWindow(title, mode)
 	
 	local window = {
 		CurrentTab = nil
