@@ -1,7 +1,7 @@
 ## Create Window
 ```lua
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ydntsdfprnartytva/Solar-UI-Library/refs/heads/main/source"))();
-lib = Library:NewWindow("Yon", "Search")
+lib = Library:NewWindow("Solar", "Search")
 ```
 ## Create Tab
 ```lua
