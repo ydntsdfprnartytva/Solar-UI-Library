@@ -1,6 +1,6 @@
 ## Create Window
 ```lua
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/rainhitgrassed/Slixx-ui-library/refs/heads/main/source"))();
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ydntsdfprnartytva/Solar-UI-Library/refs/heads/main/source"))();
 lib = Library:NewWindow("Yon", "Search")
 ```
 ## Create Tab
